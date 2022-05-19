@@ -1,0 +1,14 @@
+C:\Users\lucas\source\repos\LG4\LG4.Repository\bin\Debug\net6.0\LG4.Repository.deps.json
+C:\Users\lucas\source\repos\LG4\LG4.Repository\bin\Debug\net6.0\LG4.Repository.runtimeconfig.json
+C:\Users\lucas\source\repos\LG4\LG4.Repository\bin\Debug\net6.0\LG4.Repository.dll
+C:\Users\lucas\source\repos\LG4\LG4.Repository\bin\Debug\net6.0\LG4.Repository.pdb
+C:\Users\lucas\source\repos\LG4\LG4.Repository\obj\Debug\net6.0\LG4.Repository.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\LG4\LG4.Repository\obj\Debug\net6.0\LG4.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\LG4\LG4.Repository\obj\Debug\net6.0\LG4.Repository.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\LG4\LG4.Repository\obj\Debug\net6.0\LG4.Repository.AssemblyInfo.cs
+C:\Users\lucas\source\repos\LG4\LG4.Repository\obj\Debug\net6.0\LG4.Repository.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\LG4\LG4.Repository\obj\Debug\net6.0\LG4.Repository.dll
+C:\Users\lucas\source\repos\LG4\LG4.Repository\obj\Debug\net6.0\refint\LG4.Repository.dll
+C:\Users\lucas\source\repos\LG4\LG4.Repository\obj\Debug\net6.0\LG4.Repository.pdb
+C:\Users\lucas\source\repos\LG4\LG4.Repository\obj\Debug\net6.0\LG4.Repository.genruntimeconfig.cache
+C:\Users\lucas\source\repos\LG4\LG4.Repository\obj\Debug\net6.0\ref\LG4.Repository.dll
