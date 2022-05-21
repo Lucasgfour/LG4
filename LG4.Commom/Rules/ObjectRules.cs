@@ -11,11 +11,31 @@ namespace LG4.Commom.Rules {
 
         public ObjectRules() { }
 
-        public void HasGreather(int value, int compare, string message) {
+        public void IsGreater(double value, double compare, string message) {
 
             if(value > compare) notifications.Add(message);
 
         }
+
+        public void IsSmaller(double value, double compare, string message) {
+
+            if (value < compare) notifications.Add(message);
+
+        }
+
+        public void IsSmallerOrEqual(double value, double compare, string message) {
+
+            if (value <= compare) notifications.Add(message);
+
+        }
+
+        public void IsGreaterOrEqual(double value, double compare, string message) {
+
+            if (value >= compare) notifications.Add(message);
+
+        }
+
+
 
     }
 }
