@@ -7,6 +7,7 @@ namespace LG4.Repository {
 
         public DataContext() {
 
+            // Definição de variável de conexão é realizada no RepositoryResolver
             this.connectionString = RepositoryResolver.ConnectionString;
 
         }
@@ -19,7 +20,8 @@ namespace LG4.Repository {
 
         protected override void OnModelCreating(ModelBuilder modelBuilder) {
 
-            
+            // Aplicação de Map deve ser realizado nessa classe
+            RepositoryMap.ResolverMap(modelBuilder);
 
         }
 
