@@ -67,9 +67,11 @@ namespace LG4.Commom.Rules {
 
         public void isNullOrEmpty(string? value, string message) {
 
-            if (value == null) notifications.Add(message);
+            string newValue = value == null ? "" : value;
 
-            if (value.Equals("")) notifications.Add(message);
+            if (newValue == null) notifications.Add(message);
+
+            isEqual(newValue, "", message);
 
         }
 

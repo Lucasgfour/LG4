@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "SjnaGqvpwgRQZ+jy9mj5sVN7FzjrsFphOVDcCpjtN9wTu4kPcNjpkzpFl90IdZ5/93SSEFLLnn973202VlcNTA==",
+  "dgSpecHash": "gfe8cxP3tyuSnuBIjwnQEemff/2fQAVM2UbbbHMWl7JCpbKHEsjFZs4Slzqu68NEDsbmDs9HzrCmw6TUEtnyCQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\lucas\\source\\repos\\LG4\\LG4.Application.Desktop\\LG4.Application.Desktop.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas\\.nuget\\packages\\materialskin.2\\2.3.1\\materialskin.2.2.3.1.nupkg.sha512"
+  ],
   "logs": []
 }
