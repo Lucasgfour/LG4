@@ -11,30 +11,67 @@ namespace LG4.Commom.Rules {
 
         public ObjectRules() { }
 
-        public void IsGreater(double value, double compare, string message) {
+        public void isGreater(double value, double compare, string message) {
 
             if(value > compare) notifications.Add(message);
 
         }
 
-        public void IsSmaller(double value, double compare, string message) {
+        public void isLess(double value, double compare, string message) {
 
             if (value < compare) notifications.Add(message);
 
         }
 
-        public void IsSmallerOrEqual(double value, double compare, string message) {
+        public void isLessOrEqual(double value, double compare, string message) {
 
             if (value <= compare) notifications.Add(message);
 
         }
 
-        public void IsGreaterOrEqual(double value, double compare, string message) {
+        public void isGreaterOrEqual(double value, double compare, string message) {
 
             if (value >= compare) notifications.Add(message);
 
         }
 
+        public void isEqual(string value, string compare, string message) {
+
+            if(value.Equals(compare)) notifications.Add(message);
+
+        }
+
+        public void isEqual(int value, int compare, string message) {
+
+            if (value == compare) notifications.Add(message);
+
+        }
+
+        public void isLengthGreaterThan(string value, int lenght, string message) {
+
+            if (value.Length > lenght) notifications.Add(message);
+
+        }
+
+        public void isLengthLessThan(string value, int lenght, string message) {
+
+            if (value.Length < lenght) notifications.Add(message);
+
+        }
+
+        public void isNull(object value, string message) {
+
+            if (value == null) notifications.Add(message);
+
+        }
+
+        public void isNullOrEmpty(string? value, string message) {
+
+            if (value == null) notifications.Add(message);
+
+            if (value.Equals("")) notifications.Add(message);
+
+        }
 
 
     }
