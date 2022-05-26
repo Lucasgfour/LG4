@@ -6,6 +6,9 @@
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
+    <StartupObject>LG4.Application.Desktop.Program</StartupObject>
+    <AssemblyName>LG4.Desktop</AssemblyName>
+    <RootNamespace>LG4.Desktop</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

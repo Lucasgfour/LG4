@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rT5DZHsF7awauSfd/O+xFGutGdbsN9hHAfJvgRYdpH2ce9scSbFATRBD2zmTx7ywWmPxuB239d0Rw3THvk+MnQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucas\\source\\repos\\LG4\\LG4.ApplicationDesktop\\LG4.ApplicationDesktop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas\\.nuget\\packages\\materialskin.2\\2.3.1\\materialskin.2.2.3.1.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\realtaiizor\\3.7.8.6\\realtaiizor.3.7.8.6.nupkg.sha512"
+  ],
+  "logs": []
+}

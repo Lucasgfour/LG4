@@ -47,7 +47,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "C:\\Users\\lucas\\source\\repos\\LG4\\LG4.Application.Desktop\\LG4.Application.Desktop.csproj",
-      "projectName": "LG4.Application.Desktop",
+      "projectName": "LG4.Desktop",
       "projectPath": "C:\\Users\\lucas\\source\\repos\\LG4\\LG4.Application.Desktop\\LG4.Application.Desktop.csproj",
       "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\lucas\\source\\repos\\LG4\\LG4.Application.Desktop\\obj\\",

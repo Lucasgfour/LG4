@@ -1,6 +1,6 @@
 ﻿using MaterialSkin;
 
-namespace LG4.Application.Desktop {
+namespace LG4.Desktop {
     public static class DependencyResolver {
 
         // Adicionar um form a biblioteca MaterialSkin

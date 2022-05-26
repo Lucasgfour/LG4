@@ -71,7 +71,9 @@ namespace LG4.Commom.Rules {
 
             if (newValue == null) notifications.Add(message);
 
+            #pragma warning disable CS8604 // Possível argumento de referência nula.
             isEqual(newValue, "", message);
+            #pragma warning restore CS8604 // Possível argumento de referência nula.
 
         }
 
