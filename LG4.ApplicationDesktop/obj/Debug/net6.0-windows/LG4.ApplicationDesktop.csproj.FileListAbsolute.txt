@@ -17,3 +17,4 @@ C:\Users\lucas\source\repos\LG4\LG4.ApplicationDesktop\obj\Debug\net6.0-windows\
 C:\Users\lucas\source\repos\LG4\LG4.ApplicationDesktop\obj\Debug\net6.0-windows\LG4.ApplicationDesktop.pdb
 C:\Users\lucas\source\repos\LG4\LG4.ApplicationDesktop\obj\Debug\net6.0-windows\LG4.ApplicationDesktop.genruntimeconfig.cache
 C:\Users\lucas\source\repos\LG4\LG4.ApplicationDesktop\obj\Debug\net6.0-windows\ref\LG4.ApplicationDesktop.dll
+C:\Users\lucas\source\repos\LG4\LG4.ApplicationDesktop\bin\Debug\net6.0-windows\ReaLTaiizor.dll

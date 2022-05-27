@@ -8,5 +8,9 @@ namespace LG4.ApplicationDesktop.UI.Forms.Infra {
             DependencyResolver.FormToTheme(this);
 
         }
+
+        private void Teste(object sender, EventArgs e) {
+            label1.Text = lG4TextBox1.MaskCustom;
+        }
     }
 }
