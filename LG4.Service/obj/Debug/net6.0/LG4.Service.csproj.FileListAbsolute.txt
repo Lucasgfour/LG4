@@ -1,0 +1,17 @@
+C:\Users\lucas\Documents\GitHub\LG4\LG4.Service\bin\Debug\net6.0\LG4.Service.deps.json
+C:\Users\lucas\Documents\GitHub\LG4\LG4.Service\bin\Debug\net6.0\LG4.Service.dll
+C:\Users\lucas\Documents\GitHub\LG4\LG4.Service\bin\Debug\net6.0\LG4.Service.pdb
+C:\Users\lucas\Documents\GitHub\LG4\LG4.Service\bin\Debug\net6.0\LG4.Commom.dll
+C:\Users\lucas\Documents\GitHub\LG4\LG4.Service\bin\Debug\net6.0\LG4.Data.dll
+C:\Users\lucas\Documents\GitHub\LG4\LG4.Service\bin\Debug\net6.0\LG4.Data.pdb
+C:\Users\lucas\Documents\GitHub\LG4\LG4.Service\bin\Debug\net6.0\LG4.Commom.pdb
+C:\Users\lucas\Documents\GitHub\LG4\LG4.Service\obj\Debug\net6.0\LG4.Service.csproj.AssemblyReference.cache
+C:\Users\lucas\Documents\GitHub\LG4\LG4.Service\obj\Debug\net6.0\LG4.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\GitHub\LG4\LG4.Service\obj\Debug\net6.0\LG4.Service.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\GitHub\LG4\LG4.Service\obj\Debug\net6.0\LG4.Service.AssemblyInfo.cs
+C:\Users\lucas\Documents\GitHub\LG4\LG4.Service\obj\Debug\net6.0\LG4.Service.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\GitHub\LG4\LG4.Service\obj\Debug\net6.0\LG4.Service.csproj.CopyComplete
+C:\Users\lucas\Documents\GitHub\LG4\LG4.Service\obj\Debug\net6.0\LG4.Service.dll
+C:\Users\lucas\Documents\GitHub\LG4\LG4.Service\obj\Debug\net6.0\refint\LG4.Service.dll
+C:\Users\lucas\Documents\GitHub\LG4\LG4.Service\obj\Debug\net6.0\LG4.Service.pdb
+C:\Users\lucas\Documents\GitHub\LG4\LG4.Service\obj\Debug\net6.0\ref\LG4.Service.dll

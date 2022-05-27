@@ -8,7 +8,16 @@ namespace LG4.ApplicationDesktop {
 
             DependencyResolver.Resolver();
             ApplicationConfiguration.Initialize();
-            Application.Run(new A0001_Login());
+
+            try {
+
+                Application.Run(new A0001_Login());
+
+            } catch(Exception exception) {
+
+                DependencyResolver.ExceptionResolver(exception, true);
+
+            }
 
         }
     }

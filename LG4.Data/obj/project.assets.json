@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "LG4.Commom/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/LG4.Commom.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LG4.Commom.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "LG4.Commom/1.0.0": {
+      "type": "project",
+      "path": "../LG4.Commom/LG4.Commom.csproj",
+      "msbuildProject": "../LG4.Commom/LG4.Commom.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "LG4.Commom >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\lucas\\.nuget\\packages\\": {}
@@ -13,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucas\\source\\repos\\LG4\\LG4.Data\\LG4.Data.csproj",
+      "projectUniqueName": "C:\\Users\\lucas\\Documents\\GitHub\\LG4\\LG4.Data\\LG4.Data.csproj",
       "projectName": "LG4.Data",
-      "projectPath": "C:\\Users\\lucas\\source\\repos\\LG4\\LG4.Data\\LG4.Data.csproj",
+      "projectPath": "C:\\Users\\lucas\\Documents\\GitHub\\LG4\\LG4.Data\\LG4.Data.csproj",
       "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucas\\source\\repos\\LG4\\LG4.Data\\obj\\",
+      "outputPath": "C:\\Users\\lucas\\Documents\\GitHub\\LG4\\LG4.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -33,7 +52,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\lucas\\Documents\\GitHub\\LG4\\LG4.Commom\\LG4.Commom.csproj": {
+              "projectPath": "C:\\Users\\lucas\\Documents\\GitHub\\LG4\\LG4.Commom\\LG4.Commom.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -60,7 +83,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

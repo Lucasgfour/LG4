@@ -276,6 +276,29 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
+      },
+      "LG4.Commom/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/LG4.Commom.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LG4.Commom.dll": {}
+        }
+      },
+      "LG4.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "LG4.Commom": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LG4.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LG4.Data.dll": {}
+        }
       }
     }
   },
@@ -732,10 +755,21 @@
         "system.runtime.compilerservices.unsafe.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "LG4.Commom/1.0.0": {
+      "type": "project",
+      "path": "../LG4.Commom/LG4.Commom.csproj",
+      "msbuildProject": "../LG4.Commom/LG4.Commom.csproj"
+    },
+    "LG4.Data/1.0.0": {
+      "type": "project",
+      "path": "../LG4.Data/LG4.Data.csproj",
+      "msbuildProject": "../LG4.Data/LG4.Data.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "LG4.Data >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 6.0.5",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.5",
       "Pomelo.EntityFrameworkCore.MySql >= 6.0.1"
@@ -747,11 +781,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucas\\source\\repos\\LG4\\LG4.Repository\\LG4.Repository.csproj",
+      "projectUniqueName": "C:\\Users\\lucas\\Documents\\GitHub\\LG4\\LG4.Repository\\LG4.Repository.csproj",
       "projectName": "LG4.Repository",
-      "projectPath": "C:\\Users\\lucas\\source\\repos\\LG4\\LG4.Repository\\LG4.Repository.csproj",
+      "projectPath": "C:\\Users\\lucas\\Documents\\GitHub\\LG4\\LG4.Repository\\LG4.Repository.csproj",
       "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucas\\source\\repos\\LG4\\LG4.Repository\\obj\\",
+      "outputPath": "C:\\Users\\lucas\\Documents\\GitHub\\LG4\\LG4.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -767,7 +801,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\lucas\\Documents\\GitHub\\LG4\\LG4.Data\\LG4.Data.csproj": {
+              "projectPath": "C:\\Users\\lucas\\Documents\\GitHub\\LG4\\LG4.Data\\LG4.Data.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -812,7 +850,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

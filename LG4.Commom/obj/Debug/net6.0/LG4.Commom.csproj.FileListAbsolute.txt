@@ -1,0 +1,12 @@
+C:\Users\lucas\Documents\GitHub\LG4\LG4.Commom\bin\Debug\net6.0\LG4.Commom.deps.json
+C:\Users\lucas\Documents\GitHub\LG4\LG4.Commom\bin\Debug\net6.0\LG4.Commom.dll
+C:\Users\lucas\Documents\GitHub\LG4\LG4.Commom\bin\Debug\net6.0\LG4.Commom.pdb
+C:\Users\lucas\Documents\GitHub\LG4\LG4.Commom\obj\Debug\net6.0\LG4.Commom.csproj.AssemblyReference.cache
+C:\Users\lucas\Documents\GitHub\LG4\LG4.Commom\obj\Debug\net6.0\LG4.Commom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\GitHub\LG4\LG4.Commom\obj\Debug\net6.0\LG4.Commom.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\GitHub\LG4\LG4.Commom\obj\Debug\net6.0\LG4.Commom.AssemblyInfo.cs
+C:\Users\lucas\Documents\GitHub\LG4\LG4.Commom\obj\Debug\net6.0\LG4.Commom.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\GitHub\LG4\LG4.Commom\obj\Debug\net6.0\LG4.Commom.dll
+C:\Users\lucas\Documents\GitHub\LG4\LG4.Commom\obj\Debug\net6.0\refint\LG4.Commom.dll
+C:\Users\lucas\Documents\GitHub\LG4\LG4.Commom\obj\Debug\net6.0\LG4.Commom.pdb
+C:\Users\lucas\Documents\GitHub\LG4\LG4.Commom\obj\Debug\net6.0\ref\LG4.Commom.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LG4.Data/1.0.0": {
+        "dependencies": {
+          "LG4.Commom": "1.0.0"
+        },
+        "runtime": {
+          "LG4.Data.dll": {}
+        }
+      },
+      "LG4.Commom/1.0.0": {
+        "runtime": {
+          "LG4.Commom.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LG4.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LG4.Commom/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

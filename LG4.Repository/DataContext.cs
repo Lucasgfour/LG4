@@ -1,9 +1,10 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using LG4.Data.Model;
+using Microsoft.EntityFrameworkCore;
 
 namespace LG4.Repository {
     public class DataContext : DbContext {
 
-        private string connectionString = "";
+        private string connectionString = "server=localhost; database=lg4; user=root; password=0816";
 
         public DataContext() {
 
@@ -24,6 +25,8 @@ namespace LG4.Repository {
             RepositoryMap.ResolverMap(modelBuilder);
 
         }
+
+        public DbSet<Usuario> Usuarios { get; set; }
 
     }
 }

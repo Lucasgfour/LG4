@@ -7,8 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Model\" />
-    <Folder Include="Rules\" />
+    <ProjectReference Include="..\LG4.Commom\LG4.Commom.csproj" />
   </ItemGroup>
 
 </Project>

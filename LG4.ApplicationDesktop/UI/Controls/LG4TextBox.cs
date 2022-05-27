@@ -78,8 +78,12 @@ namespace LG4.ApplicationDesktop.UI.Controls {
 				}
 					
 			}
+
+			if (this.MaskType == LG4Mask.Date)
+				this.MaskCustom = "11/11/1111";
 			
-			if(this.MaskType == LG4Mask.Integer) this.MaskCustom = "".PadLeft(this.Text.Length, '1');
+			if(this.MaskType == LG4Mask.Integer) 
+				this.MaskCustom = "".PadLeft(this.Text.Length, '1');
 
 		}
 
@@ -145,6 +149,7 @@ namespace LG4.ApplicationDesktop.UI.Controls {
         None,
         Decimal,
         Integer,
+		Date,
         Custom
        
 
