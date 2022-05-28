@@ -59,23 +59,5 @@ namespace LG4.ApplicationDesktop.Properties {
                 resourceCulture = value;
             }
         }
-        
-        /// <summary>
-        ///   Consulta uma cadeia de caracteres localizada semelhante a .
-        /// </summary>
-        internal static string ConnectionSelected {
-            get {
-                return ResourceManager.GetString("ConnectionSelected", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Consulta uma cadeia de caracteres localizada semelhante a .
-        /// </summary>
-        internal static string LastUserUsed {
-            get {
-                return ResourceManager.GetString("LastUserUsed", resourceCulture);
-            }
-        }
     }
 }

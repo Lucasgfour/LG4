@@ -13,3 +13,5 @@ Favor informar uma porta valida.
 16:35:20 27/05/2022 - SEX -> Specified key is not a valid size for this algorithm. (Parameter 'rgbKey')
 16:36:02 27/05/2022 - SEX -> System.Security.Cryptography.Csp / Specified key is not a valid size for this algorithm. (Parameter 'rgbKey')
 16:37:02 27/05/2022 - SEX -> System.Security.Cryptography.Csp / Specified key is not a valid size for this algorithm. (Parameter 'rgbKey')
+04:14:34 - 28/05/2022 - SÁB -> LG4.Repository / Could not load file or assembly 'Microsoft.EntityFrameworkCore, Version=6.0.5.0, Culture=neutral, PublicKeyToken=adb9793829ddae60'. O sistema não pode encontrar o arquivo especificado.
+04:15:43 - 28/05/2022 - SÁB -> LG4.Service / Usuário / Senha inválido.

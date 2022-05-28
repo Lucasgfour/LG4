@@ -11,7 +11,7 @@ namespace LG4.ApplicationDesktop {
 
             try {
 
-                Application.Run(new A0001_Login());
+                Application.Run(new A0003_HomePage());
 
             } catch(Exception exception) {
 

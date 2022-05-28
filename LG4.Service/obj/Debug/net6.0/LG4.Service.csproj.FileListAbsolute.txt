@@ -15,3 +15,5 @@ C:\Users\lucas\Documents\GitHub\LG4\LG4.Service\obj\Debug\net6.0\LG4.Service.dll
 C:\Users\lucas\Documents\GitHub\LG4\LG4.Service\obj\Debug\net6.0\refint\LG4.Service.dll
 C:\Users\lucas\Documents\GitHub\LG4\LG4.Service\obj\Debug\net6.0\LG4.Service.pdb
 C:\Users\lucas\Documents\GitHub\LG4\LG4.Service\obj\Debug\net6.0\ref\LG4.Service.dll
+C:\Users\lucas\Documents\GitHub\LG4\LG4.Service\bin\Debug\net6.0\LG4.Repository.dll
+C:\Users\lucas\Documents\GitHub\LG4\LG4.Service\bin\Debug\net6.0\LG4.Repository.pdb

@@ -14,7 +14,7 @@ namespace LG4.ApplicationDesktop.UI.Forms.Infra {
 
             RefreshConnections();
 
-            var lastUser = Properties.Resources.LastUserUsed;
+            var lastUser = Properties.ApplicationSettings.Default.LastUserSelected;
 
             if (!lastUser.Equals("")) {
 
@@ -41,7 +41,7 @@ namespace LG4.ApplicationDesktop.UI.Forms.Infra {
 
             cbx_connection.Items.Clear();
 
-            var cnnSelected = Properties.Resources.ConnectionSelected;
+            var cnnSelected = Properties.ApplicationSettings.Default.LastSelectedConnection;
 
             DatabaseConnectionController.GetAll();
 
@@ -61,8 +61,33 @@ namespace LG4.ApplicationDesktop.UI.Forms.Infra {
 
         private void ClickConnect(object sender, EventArgs e) {
 
-            
+            if(cbx_connection.Items.Count == 0) {
+                MessageBox.Show("Não há conexão com banco de dados.");
+                return;
+            }
+
+            var connection = DatabaseConnectionController.connections.ElementAt(cbx_connection.SelectedIndex);
+
+            DependencyResolver.ConnectionResolver(connection);
+
+            try {
+
+                var sucesso = UsuarioController.Login(txt_user.Text, txt_password.Text);
+
+                if (!sucesso)
+                    return;
+
+                Properties.ApplicationSettings.Default.LastSelectedConnection = cbx_connection.Text;
+                Properties.ApplicationSettings.Default.LastUserSelected = txt_user.Text;
+                Properties.ApplicationSettings.Default.Save();
+
+                this.DialogResult = DialogResult.OK;
+                this.Close();
+
+            } catch(Exception erro) { MessageBox.Show(erro.Message); }
+
 
         }
+
     }
 }

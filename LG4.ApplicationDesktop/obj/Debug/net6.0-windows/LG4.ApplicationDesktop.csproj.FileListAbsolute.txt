@@ -63,3 +63,6 @@ C:\Users\lucas\Documents\GitHub\LG4\LG4.ApplicationDesktop\bin\Debug\net6.0-wind
 C:\Users\lucas\Documents\GitHub\LG4\LG4.ApplicationDesktop\bin\Debug\net6.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
 C:\Users\lucas\Documents\GitHub\LG4\LG4.ApplicationDesktop\bin\Debug\net6.0-windows\LG4.Repository.dll
 C:\Users\lucas\Documents\GitHub\LG4\LG4.ApplicationDesktop\bin\Debug\net6.0-windows\LG4.Repository.pdb
+C:\Users\lucas\Documents\GitHub\LG4\LG4.ApplicationDesktop\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\lucas\Documents\GitHub\LG4\LG4.ApplicationDesktop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lucas\Documents\GitHub\LG4\LG4.ApplicationDesktop\obj\Debug\net6.0-windows\LG4.ApplicationDesktop.UI.Forms.Infra.A0003_HomePage.resources

@@ -10,11 +10,13 @@ namespace LG4.Repository.Dao {
 
         public static Usuario Login(string usuario, string password) {
 
-            var result = RepositoryResolver
-                .GetContext()
-                .Usuarios
+            var context = RepositoryResolver.GetContext();
+
+            var result = context.Usuarios
                 .Where(x => x.usuario.Equals(usuario) && x.senha.Equals(password))
                 .FirstOrDefault();
+
+            context.Dispose();
 
             return result;
 
@@ -22,11 +24,13 @@ namespace LG4.Repository.Dao {
 
         public static Usuario Consult(int id) {
 
-            var result = RepositoryResolver
-                            .GetContext()
-                            .Usuarios
+            var context = RepositoryResolver.GetContext();
+
+            var result = context.Usuarios
                             .Where(x => x.id == id)
                             .FirstOrDefault();
+
+            context.Dispose();
 
             return result;
 
@@ -34,9 +38,30 @@ namespace LG4.Repository.Dao {
 
         public static void Add(Usuario usuario) {
 
-            RepositoryResolver.GetContext().Usuarios.Add(usuario);
+            var context = RepositoryResolver.GetContext();
 
-            RepositoryResolver.GetContext().SaveChanges();
+            context.Usuarios.Add(usuario);
+
+            context.SaveChanges();
+
+            context.Dispose();
+
+        }
+
+        public static void Update(Usuario usuario) {
+
+            var user = Consult(usuario.id);
+
+            var context = RepositoryResolver.GetContext();
+
+            if (user == null)
+                throw new Exception("Não encontrado o registro selecionado no banco.");
+
+            context.Usuarios.Update(usuario);
+
+            context.SaveChanges();
+
+            context.Dispose();
 
         }
 

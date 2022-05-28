@@ -99,7 +99,7 @@
             // 
             this.txt_user.AnimateReadOnly = false;
             this.txt_user.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
-            this.txt_user.CharacterCasing = System.Windows.Forms.CharacterCasing.Normal;
+            this.txt_user.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper;
             this.txt_user.Depth = 0;
             this.txt_user.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Pixel);
             this.txt_user.HideSelection = true;
@@ -156,7 +156,7 @@
             // 
             this.txt_password.AnimateReadOnly = false;
             this.txt_password.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
-            this.txt_password.CharacterCasing = System.Windows.Forms.CharacterCasing.Normal;
+            this.txt_password.CharacterCasing = System.Windows.Forms.CharacterCasing.Lower;
             this.txt_password.Depth = 0;
             this.txt_password.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Pixel);
             this.txt_password.HideSelection = true;
@@ -167,7 +167,7 @@
             this.txt_password.MaxLength = 20;
             this.txt_password.MouseState = MaterialSkin.MouseState.OUT;
             this.txt_password.Name = "txt_password";
-            this.txt_password.PasswordChar = '\0';
+            this.txt_password.PasswordChar = '●';
             this.txt_password.PrefixSuffixText = null;
             this.txt_password.ReadOnly = false;
             this.txt_password.RightToLeft = System.Windows.Forms.RightToLeft.No;
@@ -180,7 +180,7 @@
             this.txt_password.TabStop = false;
             this.txt_password.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
             this.txt_password.TrailingIcon = null;
-            this.txt_password.UseSystemPasswordChar = false;
+            this.txt_password.UseSystemPasswordChar = true;
             this.txt_password.UseTallSize = false;
             // 
             // btn_entrar

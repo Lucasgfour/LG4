@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\LG4.Data\LG4.Data.csproj" />
+    <ProjectReference Include="..\LG4.Repository\LG4.Repository.csproj" />
   </ItemGroup>
 
 </Project>
