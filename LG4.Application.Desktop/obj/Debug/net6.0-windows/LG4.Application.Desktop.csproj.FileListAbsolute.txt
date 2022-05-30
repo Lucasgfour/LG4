@@ -1,7 +1,0 @@
-C:\Users\lucas\source\repos\LG4\LG4.Application.Desktop\obj\Debug\net6.0-windows\LG4.Application.Desktop.csproj.AssemblyReference.cache
-C:\Users\lucas\source\repos\LG4\LG4.Application.Desktop\obj\Debug\net6.0-windows\LG4.Application.Desktop.UI.Infra.A0001_Login_Screen.resources
-C:\Users\lucas\source\repos\LG4\LG4.Application.Desktop\obj\Debug\net6.0-windows\LG4.Application.Desktop.csproj.GenerateResource.cache
-C:\Users\lucas\source\repos\LG4\LG4.Application.Desktop\obj\Debug\net6.0-windows\LG4.Application.Desktop.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\lucas\source\repos\LG4\LG4.Application.Desktop\obj\Debug\net6.0-windows\LG4.Application.Desktop.AssemblyInfoInputs.cache
-C:\Users\lucas\source\repos\LG4\LG4.Application.Desktop\obj\Debug\net6.0-windows\LG4.Application.Desktop.AssemblyInfo.cs
-C:\Users\lucas\source\repos\LG4\LG4.Application.Desktop\obj\Debug\net6.0-windows\LG4.Application.Desktop.csproj.CoreCompileInputs.cache
