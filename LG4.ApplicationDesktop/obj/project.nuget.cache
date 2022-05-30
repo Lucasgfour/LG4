@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yCMdujbU4Tk3ppJZhJLCzbEV4QhjDRay3A6haoRY5FFuGSSfULtdCqh0n2HK3LVv+TjUDySjTGRK+eF7yA7MVA==",
+  "dgSpecHash": "opJmCkFb5MJO8emb0gl7eaPUtic6sf+TmLh16/KFa8HUbwlsbN1rHzwjPSYsuitE+iG2dm0DJORulxL2bT5Jsg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucas\\Documents\\GitHub\\LG4\\LG4.ApplicationDesktop\\LG4.ApplicationDesktop.csproj",
+  "projectFilePath": "C:\\Users\\lucas\\source\\repos\\LG4\\LG4.ApplicationDesktop\\LG4.ApplicationDesktop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucas\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\lucas\\.nuget\\packages\\materialskin.2\\2.3.1\\materialskin.2.2.3.1.nupkg.sha512",

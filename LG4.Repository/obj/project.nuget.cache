@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K+zUOEYdxWXKUx7iSkeXdqXn5pWYgSRuoZRiOZdglvZnaww99Q1RijwjAIFBtDo1YPZ3jQfSPvaH3rKedevwuQ==",
+  "dgSpecHash": "sfx3RV4SNkEvbVuIzYkL9ZZOs3o9Kv2jTFQ9NWmptYuTOkB1ay6vQU57xc8XOSCpY6bunMqPnCK6aHg0f+VZDQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucas\\Documents\\GitHub\\LG4\\LG4.Repository\\LG4.Repository.csproj",
+  "projectFilePath": "C:\\Users\\lucas\\source\\repos\\LG4\\LG4.Repository\\LG4.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucas\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\lucas\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.5\\microsoft.entityframeworkcore.6.0.5.nupkg.sha512",

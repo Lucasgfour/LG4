@@ -31,3 +31,8 @@ C:\Users\lucas\Documents\GitHub\LG4\LG4.Repository\bin\Debug\net6.0\LG4.Data.dll
 C:\Users\lucas\Documents\GitHub\LG4\LG4.Repository\bin\Debug\net6.0\LG4.Data.pdb
 C:\Users\lucas\Documents\GitHub\LG4\LG4.Repository\bin\Debug\net6.0\LG4.Commom.pdb
 C:\Users\lucas\Documents\GitHub\LG4\LG4.Repository\obj\Debug\net6.0\LG4.Repository.csproj.CopyComplete
+C:\Users\lucas\source\repos\LG4\LG4.Repository\bin\Debug\net6.0\LG4.Commom.dll
+C:\Users\lucas\source\repos\LG4\LG4.Repository\bin\Debug\net6.0\LG4.Data.dll
+C:\Users\lucas\source\repos\LG4\LG4.Repository\bin\Debug\net6.0\LG4.Data.pdb
+C:\Users\lucas\source\repos\LG4\LG4.Repository\bin\Debug\net6.0\LG4.Commom.pdb
+C:\Users\lucas\source\repos\LG4\LG4.Repository\obj\Debug\net6.0\LG4.Repository.csproj.CopyComplete

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X2frLNYD9dIGzH/vYkZcTzz+A1FcbbvgPYcNNwNgkrcHAy9SMyWjDmvBFBrybruyGTEc32Q4uXKYQ6U1k0Sq6A==",
+  "dgSpecHash": "DLBRzlLOzkmNJRBt8WCaQGi7eQXEU1q3oJXKhAdBqFTJckCeRA7SUvl4Y0QmcWerF7kFDG70G8ZtT1miZfRbbA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucas\\Documents\\GitHub\\LG4\\LG4.Service\\LG4.Service.csproj",
+  "projectFilePath": "C:\\Users\\lucas\\source\\repos\\LG4\\LG4.Service\\LG4.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucas\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.1\\microsoft.entityframeworkcore.6.0.1.nupkg.sha512",
     "C:\\Users\\lucas\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.1\\microsoft.entityframeworkcore.abstractions.6.0.1.nupkg.sha512",

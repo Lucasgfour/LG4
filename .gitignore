@@ -3,3 +3,5 @@
 .vs/LG4/v17/.futdcache.v1
 .vs/LG4/v17/.suo
 .vs/LG4/v17/.suo
+**/LG4.ApplicationDesktop/bin/Debug
+**/LG4.ApplicationDesktop/bin/Debug/net6.0-windows/

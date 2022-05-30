@@ -77,6 +77,13 @@ namespace LG4.Commom.Rules {
 
         }
 
+        public void isTrue(bool value, string message) {
+
+            if (value)
+                notifications.Add(message);
+
+        }
+
 
     }
 }

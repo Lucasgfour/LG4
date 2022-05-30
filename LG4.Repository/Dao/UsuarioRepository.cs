@@ -36,6 +36,18 @@ namespace LG4.Repository.Dao {
 
         }
 
+        public static List<Usuario> ListAll() {
+
+            var context = RepositoryResolver.GetContext();
+
+            var result = context.Usuarios.ToList();
+
+            context.Dispose();
+
+            return result;
+
+        }
+
         public static void Add(Usuario usuario) {
 
             var context = RepositoryResolver.GetContext();

@@ -1,4 +1,5 @@
-﻿using MaterialSkin.Controls;
+﻿using LG4.ApplicationDesktop.UI.Controls;
+using MaterialSkin.Controls;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -10,11 +11,10 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace LG4.ApplicationDesktop.UI.Forms.Infra {
-    public partial class A0003_HomePage : MaterialForm {
+    public partial class A0003_HomePage : LG4Form {
         public A0003_HomePage() {
 
             InitializeComponent();
-            DependencyResolver.FormToTheme(this);
 
         }
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas\\Documents\\GitHub\\LG4\\LG4.ApplicationDesktop\\LG4.ApplicationDesktop.csproj": {}
+    "C:\\Users\\lucas\\source\\repos\\LG4\\LG4.ApplicationDesktop\\LG4.ApplicationDesktop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas\\Documents\\GitHub\\LG4\\LG4.ApplicationDesktop\\LG4.ApplicationDesktop.csproj": {
+    "C:\\Users\\lucas\\source\\repos\\LG4\\LG4.ApplicationDesktop\\LG4.ApplicationDesktop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\Documents\\GitHub\\LG4\\LG4.ApplicationDesktop\\LG4.ApplicationDesktop.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\source\\repos\\LG4\\LG4.ApplicationDesktop\\LG4.ApplicationDesktop.csproj",
         "projectName": "LG4.ApplicationDesktop",
-        "projectPath": "C:\\Users\\lucas\\Documents\\GitHub\\LG4\\LG4.ApplicationDesktop\\LG4.ApplicationDesktop.csproj",
+        "projectPath": "C:\\Users\\lucas\\source\\repos\\LG4\\LG4.ApplicationDesktop\\LG4.ApplicationDesktop.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\Documents\\GitHub\\LG4\\LG4.ApplicationDesktop\\obj\\",
+        "outputPath": "C:\\Users\\lucas\\source\\repos\\LG4\\LG4.ApplicationDesktop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,17 +28,17 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\lucas\\Documents\\GitHub\\LG4\\LG4.Commom\\LG4.Commom.csproj": {
-                "projectPath": "C:\\Users\\lucas\\Documents\\GitHub\\LG4\\LG4.Commom\\LG4.Commom.csproj"
+              "C:\\Users\\lucas\\source\\repos\\LG4\\LG4.Commom\\LG4.Commom.csproj": {
+                "projectPath": "C:\\Users\\lucas\\source\\repos\\LG4\\LG4.Commom\\LG4.Commom.csproj"
               },
-              "C:\\Users\\lucas\\Documents\\GitHub\\LG4\\LG4.Data\\LG4.Data.csproj": {
-                "projectPath": "C:\\Users\\lucas\\Documents\\GitHub\\LG4\\LG4.Data\\LG4.Data.csproj"
+              "C:\\Users\\lucas\\source\\repos\\LG4\\LG4.Data\\LG4.Data.csproj": {
+                "projectPath": "C:\\Users\\lucas\\source\\repos\\LG4\\LG4.Data\\LG4.Data.csproj"
               },
-              "C:\\Users\\lucas\\Documents\\GitHub\\LG4\\LG4.Repository\\LG4.Repository.csproj": {
-                "projectPath": "C:\\Users\\lucas\\Documents\\GitHub\\LG4\\LG4.Repository\\LG4.Repository.csproj"
+              "C:\\Users\\lucas\\source\\repos\\LG4\\LG4.Repository\\LG4.Repository.csproj": {
+                "projectPath": "C:\\Users\\lucas\\source\\repos\\LG4\\LG4.Repository\\LG4.Repository.csproj"
               },
-              "C:\\Users\\lucas\\Documents\\GitHub\\LG4\\LG4.Service\\LG4.Service.csproj": {
-                "projectPath": "C:\\Users\\lucas\\Documents\\GitHub\\LG4\\LG4.Service\\LG4.Service.csproj"
+              "C:\\Users\\lucas\\source\\repos\\LG4\\LG4.Service\\LG4.Service.csproj": {
+                "projectPath": "C:\\Users\\lucas\\source\\repos\\LG4\\LG4.Service\\LG4.Service.csproj"
               }
             }
           }
@@ -92,18 +92,18 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\lucas\\Documents\\GitHub\\LG4\\LG4.Commom\\LG4.Commom.csproj": {
+    "C:\\Users\\lucas\\source\\repos\\LG4\\LG4.Commom\\LG4.Commom.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\Documents\\GitHub\\LG4\\LG4.Commom\\LG4.Commom.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\source\\repos\\LG4\\LG4.Commom\\LG4.Commom.csproj",
         "projectName": "LG4.Commom",
-        "projectPath": "C:\\Users\\lucas\\Documents\\GitHub\\LG4\\LG4.Commom\\LG4.Commom.csproj",
+        "projectPath": "C:\\Users\\lucas\\source\\repos\\LG4\\LG4.Commom\\LG4.Commom.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\Documents\\GitHub\\LG4\\LG4.Commom\\obj\\",
+        "outputPath": "C:\\Users\\lucas\\source\\repos\\LG4\\LG4.Commom\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -146,18 +146,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\lucas\\Documents\\GitHub\\LG4\\LG4.Data\\LG4.Data.csproj": {
+    "C:\\Users\\lucas\\source\\repos\\LG4\\LG4.Data\\LG4.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\Documents\\GitHub\\LG4\\LG4.Data\\LG4.Data.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\source\\repos\\LG4\\LG4.Data\\LG4.Data.csproj",
         "projectName": "LG4.Data",
-        "projectPath": "C:\\Users\\lucas\\Documents\\GitHub\\LG4\\LG4.Data\\LG4.Data.csproj",
+        "projectPath": "C:\\Users\\lucas\\source\\repos\\LG4\\LG4.Data\\LG4.Data.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\Documents\\GitHub\\LG4\\LG4.Data\\obj\\",
+        "outputPath": "C:\\Users\\lucas\\source\\repos\\LG4\\LG4.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -174,8 +174,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\lucas\\Documents\\GitHub\\LG4\\LG4.Commom\\LG4.Commom.csproj": {
-                "projectPath": "C:\\Users\\lucas\\Documents\\GitHub\\LG4\\LG4.Commom\\LG4.Commom.csproj"
+              "C:\\Users\\lucas\\source\\repos\\LG4\\LG4.Commom\\LG4.Commom.csproj": {
+                "projectPath": "C:\\Users\\lucas\\source\\repos\\LG4\\LG4.Commom\\LG4.Commom.csproj"
               }
             }
           }
@@ -204,18 +204,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\lucas\\Documents\\GitHub\\LG4\\LG4.Repository\\LG4.Repository.csproj": {
+    "C:\\Users\\lucas\\source\\repos\\LG4\\LG4.Repository\\LG4.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\Documents\\GitHub\\LG4\\LG4.Repository\\LG4.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\source\\repos\\LG4\\LG4.Repository\\LG4.Repository.csproj",
         "projectName": "LG4.Repository",
-        "projectPath": "C:\\Users\\lucas\\Documents\\GitHub\\LG4\\LG4.Repository\\LG4.Repository.csproj",
+        "projectPath": "C:\\Users\\lucas\\source\\repos\\LG4\\LG4.Repository\\LG4.Repository.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\Documents\\GitHub\\LG4\\LG4.Repository\\obj\\",
+        "outputPath": "C:\\Users\\lucas\\source\\repos\\LG4\\LG4.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -232,8 +232,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\lucas\\Documents\\GitHub\\LG4\\LG4.Data\\LG4.Data.csproj": {
-                "projectPath": "C:\\Users\\lucas\\Documents\\GitHub\\LG4\\LG4.Data\\LG4.Data.csproj"
+              "C:\\Users\\lucas\\source\\repos\\LG4\\LG4.Data\\LG4.Data.csproj": {
+                "projectPath": "C:\\Users\\lucas\\source\\repos\\LG4\\LG4.Data\\LG4.Data.csproj"
               }
             }
           }
@@ -280,18 +280,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\lucas\\Documents\\GitHub\\LG4\\LG4.Service\\LG4.Service.csproj": {
+    "C:\\Users\\lucas\\source\\repos\\LG4\\LG4.Service\\LG4.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\Documents\\GitHub\\LG4\\LG4.Service\\LG4.Service.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\source\\repos\\LG4\\LG4.Service\\LG4.Service.csproj",
         "projectName": "LG4.Service",
-        "projectPath": "C:\\Users\\lucas\\Documents\\GitHub\\LG4\\LG4.Service\\LG4.Service.csproj",
+        "projectPath": "C:\\Users\\lucas\\source\\repos\\LG4\\LG4.Service\\LG4.Service.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\Documents\\GitHub\\LG4\\LG4.Service\\obj\\",
+        "outputPath": "C:\\Users\\lucas\\source\\repos\\LG4\\LG4.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -308,11 +308,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\lucas\\Documents\\GitHub\\LG4\\LG4.Data\\LG4.Data.csproj": {
-                "projectPath": "C:\\Users\\lucas\\Documents\\GitHub\\LG4\\LG4.Data\\LG4.Data.csproj"
+              "C:\\Users\\lucas\\source\\repos\\LG4\\LG4.Data\\LG4.Data.csproj": {
+                "projectPath": "C:\\Users\\lucas\\source\\repos\\LG4\\LG4.Data\\LG4.Data.csproj"
               },
-              "C:\\Users\\lucas\\Documents\\GitHub\\LG4\\LG4.Repository\\LG4.Repository.csproj": {
-                "projectPath": "C:\\Users\\lucas\\Documents\\GitHub\\LG4\\LG4.Repository\\LG4.Repository.csproj"
+              "C:\\Users\\lucas\\source\\repos\\LG4\\LG4.Repository\\LG4.Repository.csproj": {
+                "projectPath": "C:\\Users\\lucas\\source\\repos\\LG4\\LG4.Repository\\LG4.Repository.csproj"
               }
             }
           }
@@ -347,7 +347,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

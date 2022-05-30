@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas\\Documents\\GitHub\\LG4\\LG4.Commom\\LG4.Commom.csproj": {}
+    "C:\\Users\\lucas\\source\\repos\\LG4\\LG4.Commom\\LG4.Commom.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas\\Documents\\GitHub\\LG4\\LG4.Commom\\LG4.Commom.csproj": {
+    "C:\\Users\\lucas\\source\\repos\\LG4\\LG4.Commom\\LG4.Commom.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\Documents\\GitHub\\LG4\\LG4.Commom\\LG4.Commom.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\source\\repos\\LG4\\LG4.Commom\\LG4.Commom.csproj",
         "projectName": "LG4.Commom",
-        "projectPath": "C:\\Users\\lucas\\Documents\\GitHub\\LG4\\LG4.Commom\\LG4.Commom.csproj",
+        "projectPath": "C:\\Users\\lucas\\source\\repos\\LG4\\LG4.Commom\\LG4.Commom.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\Documents\\GitHub\\LG4\\LG4.Commom\\obj\\",
+        "outputPath": "C:\\Users\\lucas\\source\\repos\\LG4\\LG4.Commom\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
